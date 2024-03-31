@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my projects are available at   https://github.com/lokeshmori/java-projects
+- 👨‍💻 All of my projects are available at   https://github.com/lokeshmori/web-projects
 
 - 💬 Ask me about **JAVA,DSA,SERVLET,JSP,MySQL,HTML,CSS,JavaScript**
 
