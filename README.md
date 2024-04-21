@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fw21-0395&label=Profile%20views&color=0e75b6&style=flat" alt="fw21-0395" /> </p>
 
 
-- 🔭 I’m currently doing **B.Teck in Computer Science and Engineering**
+- 🔭 I’m currently doing **B.Tech in Computer Science and Engineering**
 
 - 🌱 I’m currently learning **SpringBoot**
 
