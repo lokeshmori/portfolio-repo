@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my projects are available at   https://github.com/lokeshmori/web-projects
+- 👨‍💻 All of my projects are available at  https://github.com/lokeshmori/MedTech_Solutions_HMS
 
 - 💬 Ask me about **JAVA,DSA,SERVLET,JSP,MySQL,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **lokeshmori4@gmail.com**
 
-- 📄 Know about my experiences   https://drive.google.com/file/d/1cIB04wX0tSZHRfDRaK38VaiIylI02_t_/view?usp=drive_link
+- 📄 Know about my experiences   https://drive.google.com/file/d/1WCKGkwMFHWDm1Aa08sFGX6biOn4qnLKV/view
 
 - ⚡ Fun fact **Java is easier than JavaScript**
 
