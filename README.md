@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **lokeshmori4@gmail.com**
 
-- 📄 Know about my experiences   https://drive.google.com/file/d/1WCKGkwMFHWDm1Aa08sFGX6biOn4qnLKV/view
+- 📄 Know about my experiences  https://drive.google.com/file/d/1J4tgNeJ2g3ROtR4o5wwJZX7FZzkIzFtG/view?usp=sharing
 
 - ⚡ Fun fact **Java is easier than JavaScript**
 
