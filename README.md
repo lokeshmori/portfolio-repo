@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my projects are available at  https://github.com/lokeshmori/MedTech_Solutions_HMS
+- 👨‍💻 All of my projects are available at  https://lokeshmori.github.io/portfolio/
 
 - 💬 Ask me about **JAVA,DSA,SERVLET,JSP,MySQL,HTML,CSS,JavaScript**
 
